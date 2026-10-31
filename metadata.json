@@ -1,0 +1,10 @@
+{
+  "name": "Device Manager",
+  "version": "1.0.0",
+  "description": "A futuristic HUD device manager: live CPU, RAM, storage and battery monitor, per-core load and temperature, RAM, junk and temp cleaner, app and APK manager, network, WiFi, Bluetooth, GPS and SIM info, magnetic field detector and a full hardware test suite.",
+  "author": "Mohammad Mahfuz Rahman",
+  "ageRating": "3+",
+  "category": "Tools",
+  "containsAds": false,
+  "type": "app"
+}
